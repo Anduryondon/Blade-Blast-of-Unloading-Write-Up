@@ -195,9 +195,11 @@ There are not many early sources for this stat, but you should use it if you hav
 #### Critical Strike Chance
 Good gear pieces to get spell crit are wand/sceptre/rune daggers, a dex/int shield, and the amulet slot. Use Harvest reforge caster and Rog for a decent spell crit shield, optimally with suppression
 
-
 #### Energy Shield
 We require some decent amount of Energy Shield to be able to use Hatred with Divine Blessing. We run a Sadist Garb together with a dex/int shield to achieve this. Depending on your chest you might have to run inspiration in your 
+
+#### Frenzy Charges
+If possible I really recommend one ring with chance to gain frenzy charges for pure mapping. It makes the build a lot more enjoyable.
 
 #### Resistances
 The remaining suffixes will be used for resistances. If you run a lot of Jun/Catarina I recommend to be close to maximum chaos resistance, otherwise you will have a bad time with the degen in the fight.
